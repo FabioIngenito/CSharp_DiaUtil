@@ -1,4 +1,4 @@
-<h1 align="left">CALCULA DIAS UTEIS OU CONTABEIS C#</h1>
+<h1 align="left">CALCULA DIAS ÚTEIS OU CONTÁBEIS C#</h1>
 
 | :placard: Vitrine.Dev |  |
 | -------------  | --- |
